@@ -9,7 +9,6 @@ public class singledigit {
 		int[] b=new int[s.length()];
 		for(i=0;i<b.length;i++){
 			b[i]=Character.getNumericValue(s.charAt(i));
-			//System.out.println(b[i]);
 		}
 			int[] c=new int[b.length];
 			int d=c.length;
