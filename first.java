@@ -2,8 +2,8 @@ package ak;
 import java.util.*;
 public class first {
 	public static void main(String...args){
-           String s;
            int i = 0,x=0,d;
+	   String s;
            char r;
            Scanner arun=new Scanner(System.in);
            s=arun.nextLine();
